@@ -1,0 +1,11 @@
+{
+  "name": "cyclewise",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "next build",
+  "startCommand": "next start",
+  "domain": "cyclewise",
+  "email": "24523203@students.uii.ac.id",
+  "secretKey": "imuii_08ff179ca7664ff628406978405f7f24b6a832a9788bc5998233d69e8f9214b6",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/cyclewise-e8007cda.git"
+}
