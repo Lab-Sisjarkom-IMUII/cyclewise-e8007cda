@@ -27,7 +27,7 @@ export default function Home() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">
-              Track Your Menstrual Cycle with AI Insights
+              Track Your Menstrual Cycle with Best AI Insights
             </h2>
             <p className="text-lg text-muted-foreground mb-8 text-pretty">
               Understand your body better with our comprehensive cycle tracking app. Get AI-powered predictions, log symptoms, and gain valuable health insights.
